@@ -16,13 +16,17 @@ int main() {
     string Gpu = "AMD";        // String 
 
 // Slide 37 
-    cout << Inters << "inch(es) = " ; //output the value of inches and the equal sign
-    cout << Inters / 12 << " feet (foot) and " ; // output the amount of feet 
-    cout << Inters 
+    int inches; // A variable to store total inches 
+    inches = 120; // Setting the value for inches 
+    cout << inches << "inch(es) = " ; //output the value of inches and the equal sign
+    cout << inches / 12 << " feet (foot) and " ; // output the amount of feet(foot)
+    cout << inches % 12 << " inch(es)" << endl;  // output remainding inches
 
 // Comparisons 
+    
+// Expressions 
     cout << "2 + 3.5 = " << 2 + 3.5 << endl;
-
+    cout << "
     
     return 0;
 }
