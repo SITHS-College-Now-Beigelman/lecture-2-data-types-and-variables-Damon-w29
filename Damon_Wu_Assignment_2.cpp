@@ -24,7 +24,7 @@ int main() {
     cout << "string: " << Gpu << "\n";
  
 
-// Slide 37 
+// Slide 37 mimic
     int inches;                                  // A variable to store total inches 
     inches = 120;                                // Setting the value for inches 
     cout << inches << " inch(es) = " ;           //output the value of inches and the equal sign
