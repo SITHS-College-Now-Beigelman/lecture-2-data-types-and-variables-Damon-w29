@@ -26,7 +26,8 @@ int main() {
     
 // Expressions 
     cout << "2 + 3.5 = " << 2 + 3.5 << endl;
-    cout << "
+    cout << " 6 / 4 + 3.9 = " << 6 / 4 +3.9 << endl;
+    cout << " 5.2*2 - (13.6 + 18/2) = " << 5.2*2 - (13.6 + 18/2) << endl;
     
     return 0;
 }
