@@ -16,9 +16,9 @@ int main() {
     string Gpu = "AMD";        // String 
 
 // Slide 37 
-    cout << inters << "inch(es) = " ; //output the value of inches and the equal sign
-    cout << inters / 12 << " feet (foot) and " ; // output the amount of feet 
-    cout << inters 
+    cout << Inters << "inch(es) = " ; //output the value of inches and the equal sign
+    cout << Inters / 12 << " feet (foot) and " ; // output the amount of feet 
+    cout << Inters 
 
 // Comparisons 
     cout << "2 + 3.5 = " << 2 + 3.5 << endl;
