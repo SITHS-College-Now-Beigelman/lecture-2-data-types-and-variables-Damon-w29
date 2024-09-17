@@ -32,16 +32,16 @@ int main() {
     cout << inches % 12 << " inch(es)" << endl;  // output remainding inches
 
 // Comparisons 
-    char bot = 'T'; // List new variable
-    char max = 'a'; // List other new variable
+    char bot = 'T';                            // List new variable
+    char max = 'a';                            // List other new variable
 
-    cout << "T < a = " << (bot < max) << "\n"; //outputs
-
+    cout << "T < a = " << (bot < max) << "\n"; //outputs Me no likey this part
+    
 
 // Expressions 
     cout << "2 + 3.5 = " << 2 + 3.5 << endl;                                 // simple mathematical expression
     cout << " 6 / 4 + 3.9 = " << 6 / 4 +3.9 << endl;                         // semi complex mathematical expression
-    cout << " 5.2*2 - (13.6 + 18/2) = " << 5.2*2 - (13.6 + 18/2) << endl;    // complex mathemiatica expression 
+    cout << " 5.4*2 - (13.6 + 18/2) = " << 5.2*2 - (13.6 + 18/2) << endl;    // complex mathemiatica expression 
     
     return 0;
 }
